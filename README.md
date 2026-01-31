@@ -18,6 +18,9 @@ O projeto está estruturado em três análises principais:
         * **Aleatória:** Remoção uniforme de vértices.
         * **Hubs:** Remoção baseada em centralidade de grau (target high-degree).
         * **Vizinhos (Acquaintance):** Seleção estocástica de vizinhos de nós aleatórios.
+     
+<img width="1078" height="686" alt="image" src="https://github.com/user-attachments/assets/735c6d9d-6ead-44f0-bd52-afda929a1e85" />
+
 
 
 ## Autores
